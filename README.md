@@ -1,23 +1,30 @@
-# Marco Ferri
+# Marco Ferri Marini
 
-Software Engineer focusing on systems, vector search, and infrastructure.
+DevOps/Infra Intern at INFN. I build reliable infrastructure, vector search engines, and local AI tools.
+
+Outside of work: homelabbing, dog-walking, and daydreaming about Linus Torvalds.
 
 ### Tech Stack
-* **Languages:** Python, C/C++, Rust, TypeScript, Go
-* **Infra & Systems:** Docker, Linux, OpenSearch, Proxmox, Git
-* **Data & ML:** Vector Search, RAG, PyTorch, Embeddings
 
-### Featured Work
-* **[ESpresso](https://github.com/matifema/espresso)** — Reinforcement learning poker engine built with evolution strategies and PPO pipelines.
-* **Log Ingestion Pipeline** — OpenSearch cluster for multi-node log centralization and anomaly detection.
-* **Gesture Control Layer** — Real-time MediaPipe input abstraction mapping hand landmarks to Wayland OS actions.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-### Activity & Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=matifema&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matifema&layout=compact&theme=dark&hide_border=true" width="48%" />
-</p>
+### Featured Projects
+
+* **[OWDTools](https://github.com/matifema/OWDTools)**: MCP server bridging Our World in Data to LLM chats with semantic catalog search and chart embeds.
+* **[Meridian](https://github.com/matifema/meridian)**: Local news aggregator clustering articles via Qwen3 embeddings + DBSCAN into a real-time D3.js graph.
+* **[OpenDex](https://github.com/matifema/opendex)**: Image-classification project that turns real-life pets into Pokédex entries.
 
 ### Links
+
 * **Site:** [matifema.com](https://matifema.com)
-* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
+* **LinkedIn:** [linkedin.com/in/marco-t-ferri-marini](https://linkedin.com/in/marco-t-ferri-marini)[cite: 1]
+* **Email:** marcoferri462@gmail.com
