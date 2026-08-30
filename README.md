@@ -1,6 +1,4 @@
-# Marco Ferri Marini
-
-Hi I'm currently a DevOps/Infra Intern at INFN. I build reliable infrastructure, vector search engines, and local AI tools.
+Hi! I'm currently a DevOps/Infra Intern at INFN. I build reliable infrastructure, vector search engines, random software and sometimes AI tools.
 
 Outside of work: homelabbing, dog-walking, and daydreaming about Linus Torvalds's code.
 
