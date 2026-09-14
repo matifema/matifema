@@ -19,7 +19,7 @@ Outside of work: homelabbing, dog-walking, and daydreaming about Linus Torvalds'
 ### Some Projects
 
 * **[OWDTools](https://github.com/matifema/OWDTools)**: MCP server bridging Our World in Data to LLM chats with semantic catalog search and chart embeds.
-* **[Meridian](https://meridian.matifema.com/)**: News aggregator clustering articles via Qwen3 embeddings + DBSCAN into a real-time D3.js graph.
+* **[Meridian](https://meridian.matifema.com/)**: News aggregator clustering articles via Jina v5 Nano embeddings + DBSCAN into a real-time D3.js graph.
 * **[OpenDex](https://github.com/matifema/opendex)**: Image-classification project that turns real-life pets into Pokédex entries.
 
 ### Links
